@@ -71,17 +71,6 @@ These visualizations help identify patterns and relationships within the dataset
 
 ---
 
-## Project Structure
-
-```
-Titanic-EDA/
-│
-├── Titanic_EDA.ipynb
-├── train.csv
-└── README.md
-```
-
----
 
 ## Purpose
 
